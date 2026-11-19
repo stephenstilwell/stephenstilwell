@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
+  <title id="title">Useful in Practice Open Lab</title>
+  <desc id="desc">A restrained editorial banner reading Build what you can explain, with a signal to context to action diagram.</desc>
+  <rect width="1200" height="245" rx="16" fill="#fdf0d5"/>
+  <rect width="11" height="245" fill="#780000"/>
+  <path d="M39 45 H1160" stroke="#003049" stroke-width="1.2" opacity=".23"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#003049">
+    <text x="44" y="32" font-size="16" font-weight="700" letter-spacing="2.3">USEFUL IN PRACTICE</text>
+    <text x="354" y="32" font-size="15" letter-spacing="2">/ OPEN LAB</text>
+    <text x="44" y="111" font-size="43" font-weight="700">Build what you can explain.</text>
+    <text x="46" y="148" font-size="19">GTM engineering  ·  AI systems  ·  Practical experiments</text>
+    <text x="46" y="212" font-size="15" font-weight="700" fill="#780000" letter-spacing="1.2">BUILD  /  DOCUMENT  /  SHARE</text>
+  </g>
+  <g transform="translate(815,78)" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <path d="M41 52 H140 M187 52 H286" stroke="#c1121f" stroke-width="3" stroke-linecap="round"/>
+    <path d="M133 46 l9 6 -9 6 M279 46 l9 6 -9 6" stroke="#c1121f" stroke-width="3" fill="none" stroke-linejoin="round"/>
+    <rect x="0" y="26" width="91" height="52" rx="8" fill="#003049"/>
+    <text x="45.5" y="57" fill="#fdf0d5">SIGNAL</text>
+    <rect x="145" y="26" width="91" height="52" rx="8" fill="#669bbc"/>
+    <text x="190.5" y="57" fill="#003049">CONTEXT</text>
+    <rect x="290" y="26" width="76" height="52" rx="8" fill="#780000"/>
+    <text x="328" y="57" fill="#fdf0d5">ACTION</text>
+    <path d="M328 83 V103 H45 V83" stroke="#003049" stroke-width="2" stroke-dasharray="5 6" fill="none" opacity=".55"/>
+  </g>
+</svg>
